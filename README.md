@@ -1,7 +1,8 @@
-![image](https://github.com/user-attachments/assets/a14fd687-f716-47a5-aae3-e582c53adaa8)
+![My Project Banner](https://github.com/janedoe/my-awesome-project/blob/main/assets/banner.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm RASHID MANZOOR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+![image](https://github.com/user-attachments/assets/a14fd687-f716-47a5-aae3-e582c53adaa8)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashid-del&label=Profile%20views&color=0e75b6&style=flat" alt="rashid-del" /> </p>
 
