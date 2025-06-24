@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm RASHID MANZOOR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align="right" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashid-del&label=Profile%20views&color=0e75b6&style=flat" alt="rashid-del" /> </p>
 
